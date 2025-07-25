@@ -41,3 +41,5 @@ Enter value[3]: 1
 Index:   0  1  2  3 
 Array:   5  7  2  # 
 ```
+<img width="1624" height="932" alt="image" src="https://github.com/user-attachments/assets/a6dcc491-0895-4ddc-8820-c008f0dfcf27" />
+
