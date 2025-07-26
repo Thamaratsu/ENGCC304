@@ -22,9 +22,9 @@ int main() {
         printf("D+\n");
     } else if(score >= 50 && score < 55) {
         printf("D \n");
-    } else if(score < 50 && score >= ) {
+    } else if(score < 50 && score >= 0) {
         printf("F \n");
-    } else(score =! "%d"); {
+    } else {
         printf("please enter number only.");
     }
     return 0;
