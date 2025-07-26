@@ -44,16 +44,17 @@ int main() {
 ## TEST CASE
 ### Input
 ```bash
-Enter N: 4
-Enter value[0]: 5
-Enter value[1]: 7
-Enter value[2]: 2
-Enter value[3]: 1
+Enter N: 5
+Enter value[0]: 1
+Enter value[1]: 2
+Enter value[2]: 3
+Enter value[3]: 4
+Enter value[3]: 5
 ```
 ### Output
 ```bash
-Index:   0  1  2  3 
-Array:   5  7  2  # 
+Index:   0  1  2  3  4
+Array:   #  2  3  #  5
 ```
 <img width="1646" height="955" alt="image" src="https://github.com/user-attachments/assets/68f2f4b0-5260-4044-b137-f37ae43b893e" />
 
