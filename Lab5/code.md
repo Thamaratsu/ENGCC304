@@ -64,7 +64,7 @@ enter score :
 ```
 ### Output
 ```bash
-C+ !
+C !
 ```
 <img width="538" height="161" alt="image" src="https://github.com/user-attachments/assets/c2d650d5-d9a1-45ac-b3b9-3d4b214566fb" />
 
