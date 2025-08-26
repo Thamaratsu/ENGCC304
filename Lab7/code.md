@@ -99,22 +99,20 @@ int main() {
 
 ## TEST CASE
 ### Input & Output
-```bash
+
 <img width="583" height="733" alt="Screenshot 2025-08-26 210311" src="https://github.com/user-attachments/assets/7a67a7b3-78e1-4a4a-a6b8-14ada5c8416b" />
 
-```
 
 ## TEST CASE
 ### Input & Output
-```bash
+
 <img width="443" height="170" alt="Screenshot 2025-08-26 210713" src="https://github.com/user-attachments/assets/9c96c062-5f85-4875-af09-71a56387b63c" />
 
-```
+
 
 ## TEST CASE
 ### Input & Output
-```bash
+
 <img width="559" height="831" alt="Screenshot 2025-08-26 211024" src="https://github.com/user-attachments/assets/47d0a5c9-319f-4b02-91df-1eda8b740922" />
 <img width="470" height="274" alt="Screenshot 2025-08-26 211029" src="https://github.com/user-attachments/assets/dd1ceb83-70a4-4022-bf35-0f6f91c2503f" />
 
-```
