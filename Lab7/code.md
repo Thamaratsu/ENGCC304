@@ -100,83 +100,21 @@ int main() {
 ## TEST CASE
 ### Input & Output
 ```bash
+<img width="583" height="733" alt="Screenshot 2025-08-26 210311" src="https://github.com/user-attachments/assets/7a67a7b3-78e1-4a4a-a6b8-14ada5c8416b" />
 
 ```
 
 ## TEST CASE
 ### Input & Output
 ```bash
-Do you want to play game (1=play,-1=exit) :
-hi
+<img width="443" height="170" alt="Screenshot 2025-08-26 210713" src="https://github.com/user-attachments/assets/9c96c062-5f85-4875-af09-71a56387b63c" />
 
-Please enter only 1 or -1.
-
-Do you want to play game (1=play,-1=exit) :
--1
-
-See you again.
 ```
 
 ## TEST CASE
 ### Input & Output
 ```bash
-Do you want to play game (1=play,-1=exit) :
-1
+<img width="559" height="831" alt="Screenshot 2025-08-26 211024" src="https://github.com/user-attachments/assets/47d0a5c9-319f-4b02-91df-1eda8b740922" />
+<img width="470" height="274" alt="Screenshot 2025-08-26 211029" src="https://github.com/user-attachments/assets/dd1ceb83-70a4-4022-bf35-0f6f91c2503f" />
 
-(Score=100)
-
-Guess the winning number (1-100) :
-20
-
-Sorry, the winning number is HIGHER than 20. (Score=90)
-
-Guess the winning number (21-100) :
-50
-
-Sorry, the winning number is LOWER than 50. (Score=80)
-
-Guess the winning number (21-49) :
-10
-
-Sorry, the winning number is HIGHER than 21. (Score=70)
-
-Guess the winning number (21-49) :
-60
-
-Sorry, the winning number is LOWER than 49. (Score=60)
-
-Guess the winning number (21-49) :
-22
-
-Score this game: 60
-
-That is correct! The winning number is 22.
-
-Do you want to play game (1=play,-1=exit) :
-1
-
-(Score=100)
-
-Guess the winning number (1-100) :
-20
-
-Score this game: 100
-
-That is correct! The winning number is 20.
-
-Do you want to play game (1=play,-1=exit) :
--1
-
-See you again.
 ```
-
-## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
-| ลำดับการเรียนรู้ | เกณฑ์การวัด | คะแนน |
-| -------- | -------- | -------- |
-| รู้จำ | เห็นโครงสร้างของโค้ดโปรแกรมชัดเจน ได้มาตรฐาน | 1 pts |
-| เข้าใจ | แก้ไขปัญหาได้ตามที่โจทย์กำหนด | 1 pts |
-| ประยุกต์ใช้ | สามารถผ่านเงื่อนไขได้ทุก testcase | 1 pts |
-| วิเคราะห์ | หาจุดผิดของโปรแกรมได้ | 1 pts |
-| ประเมินค่า | โปรแกรมเสร็จสมบูรณ์ระยะเวลาที่กำหนด | 1 pts |
-| สร้างสรรค์ | แก้ไขสถานการณ์ของโจทย์ | 1 pts |
-||<p style='text-align: right !important;'>**รวม**</p>|**6 pts**|
